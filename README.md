@@ -1,4 +1,4 @@
-**Opencore i3-6098P Hackintosh Build**
+# **Opencore i3-6098P Hackintosh Build**
 # **System Specifications:-**
 - Intel Core i3-6098P Processor
 - ASRock H110M-DGS Motherboard
